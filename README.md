@@ -6,7 +6,7 @@ Formerly Lead Product Designer at Grab (GrabMaps), where I led Driver Voice AI f
 
 ## What I'm building in the open
 - [feedback-tunnel](https://github.com/madebychip/feedback-tunnel): share a localhost prototype with one link. Reviewers pin notes that land in FEEDBACK.md for your coding agent. Try it with `npx feedback-tunnel 3000`.
-- [madebychip-illustration-skills](https://github.com/madebychip/madebychip-illustration-skills): on-brand illustration skills for ChatGPT Projects (Guild Enamel badges, Puffy Icons), with prompts and brand tokens.
+- [madebychip-illustration-skills](https://github.com/madebychip/madebychip-illustration-skills): on-brand illustration skills for ChatGPT Projects (Guild Enamel badges, Premium 3D Claymorphism icons, Soft 3D Otter), with prompts and reference images.
 
 ## What I work on
 - AI-assisted design workflows, with prompts, breakdowns and failures
